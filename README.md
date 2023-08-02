@@ -1,3 +1,6 @@
+
+![Banner-Image-3](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/710d7a9b-d17f-4e80-b9a0-7156244403fd)
+
 # Greetings 👋
 
 My name is Chris Eke, and I sing while I code 🎶. Back in 2017, I originally wanted to be a designer of the UI/UX variety. I could build some pretty ✨ interfaces if I say so myself, but something inside of me wanted more. I wanted my designs to be more than just eye candy, I wanted them to be practical and I wanted them to do something. So I took up coding, and ever since, I've been trying to build and design the next Twitter. (not really, I don't use Twitter). I was self-taught at first but decided to get some formal and technical training to build a better foundation in both software development and UI/UX design.
@@ -5,6 +8,7 @@ My name is Chris Eke, and I sing while I code 🎶. Back in 2017, I originally w
 I was born in Louisiana, but I've lived in Dallas for most of my life. When I'm not building apps or designing interfaces, you can find me at the local gym perfecting my jump shot or working on my handle 🏀. In my downtime, I like to work on my cooking skills so can impress my future family 🍴 or try to find the deeper meaning in the newest Netflix release 🎞️. My dream is to one day own two dogs name Beau and Bella. What can I say, Im a simple man.
 
 ## 🤙 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iamchriseke/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
@@ -18,6 +22,7 @@ I was born in Louisiana, but I've lived in Dallas for most of my life. When I'm 
 </p>
 
 ## 🧠 Stuff I've learned
+
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +48,7 @@ I was born in Louisiana, but I've lived in Dallas for most of my life. When I'm 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 🛠️ Things I use
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,3 +67,13 @@ I was born in Louisiana, but I've lived in Dallas for most of my life. When I'm 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+## ✨ Apps I've built
+![linkup-badge](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/e6fa358c-1747-4906-93f5-22d94cf76cc7)
+![cypher-badge](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/710b7493-d2f0-4267-afe4-d1ff717175fd)
+![mezzo-badge](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/c9c5c27d-7a63-46cf-9a1d-d515ac199d4a)
+
+## 🤫 Currently working on
+![bustl-badge](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/5c5ae798-b755-4ac2-a065-99208af6df35)
+
+
