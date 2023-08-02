@@ -6,13 +6,13 @@ I was born in Louisiana, but I've lived in Dallas for most of my life. When I'm 
 
 ## 🤙 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamchriseke/">
+  <a href="https://www.linkedin.com/in/iamchriseke/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="https://dribbble.com/chriseke/">
+  <a href="https://dribbble.com/chriseke/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" style="vertical-align:top; margin:6px 4px">
   </a> 
-  <a href="https://wellfound.com/u/chris-eke-1">
+  <a href="https://wellfound.com/u/chris-eke-1" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="wellfound" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
