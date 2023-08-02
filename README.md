@@ -1,5 +1,5 @@
 
-![Banner-Image](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/1a25fd33-531c-4ca8-85e3-00588d4414ed)
+![Banner-Image-main](https://github.com/ChrisEkeDev/ChrisEkeDev/assets/52504068/faa00ece-09f5-45d4-9791-16d520459ddb)
 
 # Greetings 👋
 
